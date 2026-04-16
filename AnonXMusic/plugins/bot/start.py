@@ -3,7 +3,7 @@ import random
 from pyrogram import filters
 from pyrogram.enums import ChatType
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
-from py_yt import VideosSearch
+from ytSearch import VideosSearch
 
 import config
 from AnonXMusic import app
